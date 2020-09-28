@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-candleshop-dev-223258-authRole",
+      "UnauthRoleArn": "arn:aws:iam::924522353004:role/amplify-candleshop-dev-223258-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::924522353004:role/amplify-candleshop-dev-223258-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-candleshop-dev-223258-deployment",
+      "UnauthRoleName": "amplify-candleshop-dev-223258-unauthRole",
+      "StackName": "amplify-candleshop-dev-223258",
+      "StackId": "arn:aws:cloudformation:us-east-1:924522353004:stack/amplify-candleshop-dev-223258/2664ae50-fbbb-11ea-9289-0e1ad0c392f9",
+      "AmplifyAppId": "d3fxahkgleifz4"
+    },
+    "categories": {
+      "auth": {
+        "candleshop1fbe218a": {}
+      }
+    }
+  }
+}
